@@ -1,4 +1,4 @@
-<img src="thatdude.png" alt="Jay">
+<img src="that dude.png" alt="Jay">
 
 <!---
 tartd/tartd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
