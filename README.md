@@ -1,4 +1,4 @@
-Fa
+<img src="thatdude.png">
 
 <!---
 tartd/tartd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
