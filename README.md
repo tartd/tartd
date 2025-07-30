@@ -4,6 +4,8 @@
 
 $\color{#b03b3b}{\textbf{hi ♡ lovely}}$
 
+[➹](https://linktr.ee/karinacchi)
+
 
 <!---
 tartd/tartd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
